@@ -564,7 +564,7 @@ header {
 /* About section code */
 
 .about {
-  background: var(--second-bg-color);
+  background: var(--bg-color);
   position: relative;
   overflow: hidden;
 }
@@ -1300,7 +1300,7 @@ header {
 
 /* Certifications Section */
 .certifications {
-  background: var(--second-bg-color);
+  background: var(--bg-color);
   padding: 6rem 9% 8rem;
   text-align: center;
 }
